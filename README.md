@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akuyakoaizen/Akuyakoaizen/main/banner.png" alt="banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Akuyakoaizen</h1>
 <p align="center">I'm passionate about coding, building projects, and constantly learning!</p>
@@ -54,7 +52,7 @@
 
 ---
 
-<p align="center">📫 Reach me at: <strong>your.email@example.com</strong></p>
+<p align="center">📫 Reach me at: <strong>odchiguebobbyjhon@gmail.com.com</strong></p>
 
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
 
